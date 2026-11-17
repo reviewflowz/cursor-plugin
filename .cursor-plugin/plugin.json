@@ -1,0 +1,14 @@
+{
+  "name": "reviewflowz",
+  "version": "1.0.0",
+  "description": "Read, analyze and organize the customer reviews in your Reviewflowz account: search reviews, get rating and reply-rate stats, see what drives negative feedback, run reports, draft replies, tag reviews and assign teammates.",
+  "author": {
+    "name": "Reviewflowz",
+    "email": "hello@reviewflowz.com"
+  },
+  "homepage": "https://www.reviewflowz.com",
+  "repository": "https://github.com/reviewflowz/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["reviews", "customer-reviews", "reputation", "google-reviews", "trustpilot", "g2", "app-store", "analytics", "mcp"],
+  "logo": "assets/logo.png"
+}
